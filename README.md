@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hey 👋
+
+I'm Tazik. 
+
 
 <!--
 **taziksh/taziksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +16,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+<details><summary>CLICK ME</summary>
+<p>
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
+
 -->
