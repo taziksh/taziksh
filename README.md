@@ -1,4 +1,4 @@
-### 🚀 I'm on a journey to redefine my potential
+## 🚀 I'm on a journey to redefine my potential
 
 In Grade 7, I failed my math exam.
 
@@ -6,12 +6,12 @@ In Grade 11, I got an A in AP Calculus.
 
 I'm only getting started.
 
-### 🛠 I'm here to make things.
+## 🛠 I'm here to make things.
 - [Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
 - [Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
 - Recette, Sign2Voice, and other prototypes at [MLH Hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
-### 🌱 I want to create real value.
+## 🌱 I want to create real value.
 
 <details><summary>I'm new to STEM. I spent high school making prose, memes, and sticky notes. </summary>
 <p>
@@ -31,8 +31,9 @@ I had the opportunity to be an executive at clubs that received **$8000** grants
 </details>  
 
 
-### ☎️ Contact Info
-- If you want to collaborate on a cool project, or just chat, [email me](mailto:tazikshahjahan@pm.me). I'm also open to [cold coffee chats](https://calendly.com/taziksh/coffee ).
+## ☕ Let's chat
+- If you want to collaborate on a cool project, [email me](mailto:tazikshahjahan@pm.me). 
+- Want to chat? Join me for a [cold coffee](https://calendly.com/taziksh/coffee ).
 - If you would like to be a part of my journey and help support my creative independence, you can [buy me a coffee](https://www.buymeacoffee.com/tazik). 
 
 
@@ -49,16 +50,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
-<details><summary>CLICK ME</summary>
-<p>
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
 
 -->
