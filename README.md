@@ -2,13 +2,14 @@
 
 In Grade 7, I failed my math exam.
 
-In Grade 11, I got an A in AP Calculus, after skipping Grade 12 math and taking Grade 10 and 11 math in the same year with high 90's.
+In Grade 11, I got an A in AP Calculus.
+
+I'm only getting started.
 
 ### 🛠 I'm here to make things.
 - [Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
 - [Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
 - Recette, Sign2Voice, and other prototypes at [MLH Hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- I'm learning to use Procreate - stay tuned for my toons
 
 ### 🌱 I want to create real value.
 
@@ -32,7 +33,6 @@ I had the opportunity to be an executive at clubs that received **$8000** grants
 
 ### ☎️ Contact Info
 - If you want to collaborate on a cool project, or just chat, [email me](mailto:tazikshahjahan@pm.me). I'm also open to [cold coffee chats](https://calendly.com/taziksh/coffee ).
-- I'll be writing many more words of `code` and *prose* in the coming months. If you'd like occasional updates on my work, you can sign up for my newsletter at...
 - If you would like to be a part of my journey and help support my creative independence, you can [buy me a coffee](https://www.buymeacoffee.com/tazik). 
 
 
