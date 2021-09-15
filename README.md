@@ -13,7 +13,7 @@ I'm only getting started.
 
 ## 🌱 I want to create real value.
 
-<details><summary>I'm new to STEM. I spent high school making prose, memes, and sticky notes. </summary>
+<details><summary>I have an eclectic background. I spent high school making prose, memes, and sticky notes. </summary>
 <p>
 
 I had the opportunity to be an executive at clubs that received **$8000** grants and were recognized as Ontario's Best High School Newspaper by the Toronto Star. As much as I enjoyed social work - holding doors at 8AM in the morning, wheeling a cart of food waste to school because my landlords wouldn't let us compost - creating large scale value requires more than intention. 
@@ -21,9 +21,10 @@ I had the opportunity to be an executive at clubs that received **$8000** grants
 </p>
 </details>
 
-<details><summary>That's why I enrolled in UWaterloo Engineering Co-op. </summary>
+<details><summary>Why I enrolled in UWaterloo Engineering Co-op. </summary>
 <p>
-
+Software lets you turn your ideas into products. 
+  
 - At Dropbase **(YC W20)**, I worked on a product with 25000+ installs and scaled it to support 25X concurrent usage
 - At Unyte Health, my first job, I had to debug obscure SQL bugs on launch day while our team lead was away 
   
