@@ -1,11 +1,3 @@
-## 🚀 I'm on a journey to redefine my potential
-
-In Grade 7, I failed my math exam.
-
-In Grade 11, I got an A in AP Calculus.
-
-I'm only getting started.
-
 ## 🛠 I'm here to make things.
 - [Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
 - [Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
