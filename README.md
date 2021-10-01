@@ -5,13 +5,6 @@
 
 ## 🌱 I want to create real value.
 
-<details><summary>I have an eclectic background. I spent high school making prose, memes, and sticky notes. </summary>
-<p>
-
-I had the opportunity to be an executive at clubs that received **$8000** grants and were recognized as Ontario's Best High School Newspaper by the Toronto Star. As much as I enjoyed social work - holding doors at 8AM in the morning, wheeling a cart of food waste to school because my landlords wouldn't let us compost - creating large scale value requires more than intention. 
-  
-</p>
-</details>
 
 <details><summary>Why I enrolled in UWaterloo Engineering Co-op. </summary>
 <p>
@@ -22,6 +15,15 @@ Software lets you turn your ideas into products.
   
 </p>
 </details>  
+
+<details><summary>I have an eclectic background. I spent high school making prose, memes, and sticky notes. </summary>
+<p>
+
+I had the opportunity to be an executive at clubs that received **$8000** grants and were recognized as Ontario's Best High School Newspaper by the Toronto Star. As much as I enjoyed social work - holding doors at 8AM in the morning, wheeling a cart of food waste to school because my landlords wouldn't let us compost - creating large scale value requires more than intention. 
+  
+</p>
+</details>
+
 
 
 ## ☕ Let's chat
