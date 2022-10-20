@@ -25,13 +25,6 @@ I had the opportunity to be an executive at clubs that received **$8000** grants
 </details>
 
 
-
-## ☕ Let's chat
-- I'm always open to collaborating on cool projects - [email me](mailto:tazikshahjahan@pm.me). 
-- Want to chat? Join me for a [cold coffee](https://calendly.com/taziksh/coffee ).
-- If you would like to be a part of my journey and help support my creative independence, you can [buy me a coffee](https://www.buymeacoffee.com/tazik). 
-
-
 <!--
 **taziksh/taziksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
