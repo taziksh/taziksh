@@ -1,5 +1,4 @@
 ## 🚢 projects
-- []
 - 📖[AmenGPT](https://prophet-gpt-frontend.vercel.app/), answers for all your questions - from the world's most ancient texts
 - 🎧[Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
 - 🎨[Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
