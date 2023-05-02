@@ -3,6 +3,10 @@
 - [Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
 - Recette, Sign2Voice, and other prototypes at [MLH Hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
+
+<!--
+**taziksh/taziksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ## 🌱 I want to create real value.
 
 
@@ -23,10 +27,6 @@ I had the opportunity to be an executive at clubs that received **$8000** grants
   
 </p>
 </details>
-
-
-<!--
-**taziksh/taziksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
