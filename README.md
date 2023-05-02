@@ -2,11 +2,11 @@
 - 📖[AmenGPT](https://prophet-gpt-frontend.vercel.app/), answers for all your questions - from the world's most ancient texts
 - 🎧[Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
 - 🎨[Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
-- Recette, Sign2Voice, and other hacks at [various hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+- Hacks at [various hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) e.g. the [Ferris Pill](https://docs.google.com/presentation/d/1GIAMRcWgxzK83_H5qgMXgtA3bRsL3RsACeOOnxkyEFA/edit##slide=id.g13d4e5f85a1_0_2111)
 
-## ⚙️ learning
-- [Transformers from scratch](https://github.com/taziksh/MLAB-Transformers-From-Scratch) 
-- Ray tracer in one weekend (wip)
+## ⚙️ currently learning...
+- 🤖[Transformers from scratch](https://github.com/taziksh/MLAB-Transformers-From-Scratch) (9/10)
+- 🪩 Ray tracer in one weekend (4/10)
 
 <!--
 **taziksh/taziksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
