@@ -1,8 +1,13 @@
-## 🛠 I'm here to make things.
-- [Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
-- [Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
-- Recette, Sign2Voice, and other prototypes at [MLH Hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+## 🚢 projects
+- []
+- 📖[AmenGPT](https://prophet-gpt-frontend.vercel.app/), answers for all your questions - from the world's most ancient texts
+- 🎧[Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
+- 🎨[Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
+- Recette, Sign2Voice, and other hacks at [various hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 
+## ⚙️ learning
+- [Transformers from scratch](https://github.com/taziksh/MLAB-Transformers-From-Scratch) 
+- Ray tracer in one weekend (wip)
 
 <!--
 **taziksh/taziksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
