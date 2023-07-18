@@ -1,4 +1,6 @@
 ## 🚢 projects
+- 👉👈[Complementary Opposing Views](https://www.youtube.com/watch?v=KAqrvcHo2Bw), an LLM-based chrome extension that encourages readers of news to re-examine beliefs
+- 💸 [How To Save A Life](https://rlszhm.csb.app/), a charity comparison tool in QALYs
 - 📖[AmenGPT](https://prophet-gpt-frontend.vercel.app/), answers for all your questions - from the world's most ancient texts
 - 🎧[Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
 - 🎨[Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
