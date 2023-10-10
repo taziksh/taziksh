@@ -5,7 +5,7 @@
 - 📆 [Time2Gather](https://www.youtube.com/watch?v=mpOplN6-INg&t=5s), a mobile app for planning hangouts (LettuceMeet + maps)
 - 🎧[Earbug](https://github.com/taziksh/earbug-frontend), a tool to discover that song stuck in your head
 - 🎨[Hayasaka.AI](https://github.com/taziksh/hayasaka.ai), an experiment with using AI to create art
-- Hacks at [various hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) e.g. the [Ferris Pill](https://docs.google.com/presentation/d/1GIAMRcWgxzK83_H5qgMXgtA3bRsL3RsACeOOnxkyEFA/edit##slide=id.g13d4e5f85a1_0_2111)
+- Hacks at [various hackathons](https://devpost.com/ZKTKZ?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
 
 
 <!--
