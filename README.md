@@ -1,7 +1,6 @@
 ## 🚢 projects
 - 📖[ReligionGPT](https://religiongpt.vercel.app/)
-- 👉👈[Complementary Opposing Views](https://www.youtube.com/watch?v=KAqrvcHo2Bw)
-- 📆 [Time2Gather](https://www.youtube.com/watch?v=mpOplN6-INg&t=5s)
+- 👉👈[CON](https://www.youtube.com/watch?v=KAqrvcHo2Bw)
 - 🎧[Earbug](https://github.com/taziksh/earbug-frontend)
 - 🎨[Hayasaka.AI](https://github.com/taziksh/hayasaka.ai)
 
