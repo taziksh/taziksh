@@ -1,3 +1,6 @@
+
+
+<!--
 ## 🚢 projects
 - 📖[ReligionGPT](https://religiongpt.vercel.app/)
 - 👉👈[CON](https://www.youtube.com/watch?v=KAqrvcHo2Bw)
@@ -5,7 +8,7 @@
 - 🎨[Hayasaka.AI](https://github.com/taziksh/hayasaka.ai)
 
 
-<!--
+
 **taziksh/taziksh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🌱 I want to create real value.
